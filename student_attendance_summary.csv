@@ -1,0 +1,22 @@
+Student_ID,Name,Total_Days,Present,Late,Absent,Attendance_Percentage
+102,Bharath Raj,20,16,4,0,100.0
+119,Mohan S,20,16,4,0,100.0
+106,Kavin R,1,1,0,0,100.0
+101,Arun Kumar,20,18,1,1,95.0
+103,Charan M,20,19,0,1,95.0
+105,Gokul S,20,17,2,1,95.0
+104,Dinesh R,20,19,0,1,95.0
+112,Rahul S,20,17,2,1,95.0
+110,Naveen P,20,17,2,1,95.0
+120,Rohit V,20,17,2,1,95.0
+117,Deepak K,20,18,1,1,95.0
+116,Ajay B,20,16,3,1,95.0
+108,Lokesh K,19,16,2,2,94.74
+106,Hari Prasad,18,17,0,1,94.44
+113,Sanjay R,20,14,4,2,90.0
+107,Karthik V,20,14,4,2,90.0
+109,Manoj T,20,16,2,2,90.0
+118,Kavin R,20,17,1,2,90.0
+115,Vignesh M,20,15,2,3,85.0
+114,Surya P,20,15,2,3,85.0
+111,Praveen Kumar,20,14,2,4,80.0
